@@ -1,5 +1,4 @@
-# Pew_Research_Health_Tracking_Survey
-Contents of Repository: R Code; Final Report
+Pew_Research_Health_Tracking_Survey
 
 Abstract
 
